@@ -7,10 +7,10 @@ import axios from 'axios'
 import 'babel-polyfill'
 import ElementUI from 'element-ui'
 import 'element-ui/lib/theme-chalk/index.css'
-import iView from 'iview';
-import 'iview/dist/styles/iview.css';
+// import iView from 'iview';
+// import 'iview/dist/styles/iview.css';
 
-Vue.use(iView);
+// Vue.use(iView);
 
 Vue.use(ElementUI)
 

@@ -15,8 +15,8 @@
 <script>
 //import $ from 'jquery'
 //import {init_sidebar} from "../static/js/custom.min.js";
-import topnav from '../src/views/Common/header.vue'
-import leftnav from '../src/views/Common/nav.vue'
+import leftnav from '../src/view/common/nav.vue'
+import topnav from '../src/view/common/header.vue'
 import axios from 'axios'
 import {formatDate} from '../src/assets/date.js'
 export default {

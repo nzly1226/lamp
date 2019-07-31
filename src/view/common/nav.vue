@@ -68,7 +68,7 @@
 			}
 		},
 		created(){
-			this.ready();
+			//this.ready();
 		},
 		methods:{
 			ready(){
